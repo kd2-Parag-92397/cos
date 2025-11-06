@@ -1,0 +1,5 @@
+Hello World
+dlroW olleH
+rev < file2.txt | cat >> file1.txt
+dlroW olleH
+dlroW olleH
